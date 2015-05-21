@@ -13,5 +13,8 @@ The following things are loaded onto the Pi
 * apache2
 * emacs
 * python-requests
+* python-pip (?)
+* python-setuptools (?)
 * chromium
+* https://github.com/wyrmiyu/ddns-tools/tree/master/dnsmadeeasy
 * 
