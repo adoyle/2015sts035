@@ -1,5 +1,8 @@
 # Projector drivers for STS.035 rings
 
+
+## DRAFT - this is a work in progress...
+
 ## Overview
 There are 3 projectors, one each for the top, left, and right sides of the ring. Each projector is meant to show an image so that together the ring has a particular year's design projected on it.
 
