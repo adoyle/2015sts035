@@ -1,0 +1,4 @@
+@xset s noblank
+@xset s off
+@xset -dpms
+@chromium --incognito --kiosk --start-fullscreen http://localhost/ring.html?interval=15000&side=top
