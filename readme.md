@@ -20,4 +20,17 @@ The following things are loaded onto the Pi
 * python-setuptools (?)
 * chromium
 * https://github.com/wyrmiyu/ddns-tools/tree/master/dnsmadeeasy
-* 
+
+### Files modified
+
+These files are in the `extras` directory in the repository and need to be moved into place.
+
+    /etc/network/interfaces
+    /etc/wpa_supplicant/wpa_supplicant.conf
+    /home/pi/.config/lxsession/LXDE-pi/autostart
+    
+
+    
+
+
+
